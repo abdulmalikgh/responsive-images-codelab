@@ -1,4 +1,4 @@
-# Responsive design
+# Responsive Images
 
 In this lab you learn about responsive design.
 
